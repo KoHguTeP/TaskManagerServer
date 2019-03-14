@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+    <user filename="file1.xml" login="login" password="password"/>
+    <user filename="login2.xml" login="login2" password="password2"/>
+<user filename="loginss.xml" login="loginss" password="sss"/>
+</users>

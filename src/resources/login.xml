@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<taskList>
+    <task id="1001" name="testName1" description="testDescription" date="15.03.19" time="18:45" contactId="2001"/>
+    <task id="1001" name="testName2" description="testDescription" date="16.03.19" time="19:45" contactId="2001"/>
+    <task id="1001" name="testName3" description="testDescription" date="17.03.19" time="20:45" contactId="2001"/>
+</taskList>
